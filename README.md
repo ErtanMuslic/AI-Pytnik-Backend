@@ -2,28 +2,30 @@
 
 Clone the project
 
-bash
+```bash
   git clone https://github.com/ErtanMuslic/AI-Pytnik-Backend.git
-
+```
 
 Go to the project directory
 
-bash
+```bash
   cd AI-Pytnik-Backend
-
+```
 
 Install dependencies
 
-bash
+```bash
   pip install
-
+```
 
 Go to the folder that contains manage.py
 
-bash
+```bash
   cd pytnik
+```
 
 Start the server
 
-bash
-  py manage.py runserver
+```bash
+  py .\manage.py runserver
+```
